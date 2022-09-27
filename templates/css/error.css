@@ -1,0 +1,19 @@
+.body{
+    font-family:Times New Roman, Times, serif
+}
+.status {
+  background: repeating-linear-gradient(to right, #909090, #4f4f4f 10%, #909090 20%);
+  background-clip: text;
+ -webkit-text-fill-color: transparent;
+ font-size: 300px; 
+ display: flex; 
+ justify-content: center;
+}
+.message{
+  display: flex; 
+  justify-content: center;
+   font-family:'Courier New', Courier, monospace; 
+}
+.error{
+    padding: 1px;
+}
